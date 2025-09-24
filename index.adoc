@@ -9,6 +9,13 @@ image::images/bridge.png[400]
 [.lead]
 Following the HPRC25 conference, we are organizing a biohackathon focused on pangenomic software tools and collaborative development.
 
+== Registration
+
+[.lead]
+Registration is required and space is limited to 30 participants.
+
+📝 https://docs.google.com/forms/d/e/1FAIpQLSfGgCUiDAwmUshIgNzc3KSvCeWBUcKg204XcI_0yM_8CaIcgA/viewform?usp=header[Register Here^]
+
 == Important Dates
 
 [cols="2,3", options="header"]
