@@ -1,4 +1,4 @@
-= HackPRC25 Biohackathon
+= HackPRC25 biohackathon
 :toc: left
 :icons: font
 :sectanchors:
@@ -12,9 +12,9 @@ Following the HPRC25 conference, we are organizing a biohackathon focused on pan
 == Registration
 
 [.lead]
-Registration is required and space is limited to 30 participants.
+Registration is required and space is limited to 30 participants. Attendance is *free* to anyone.
 
-📝 https://docs.google.com/forms/d/e/1FAIpQLSfGgCUiDAwmUshIgNzc3KSvCeWBUcKg204XcI_0yM_8CaIcgA/viewform?usp=header[Register Here^]
+📝 https://docs.google.com/forms/d/e/1FAIpQLSfGgCUiDAwmUshIgNzc3KSvCeWBUcKg204XcI_0yM_8CaIcgA/viewform?usp=header[Register here^]
 
 == Important Dates
 
@@ -26,8 +26,7 @@ Registration is required and space is limited to 30 participants.
 
 == Venue
 
-*Location*: Rooms 100-101, Translational Research Science Building (TRSB) +
-*Format*: Collaborative software development and biohackathon +
+*Location*: link:https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[Rooms 100-101, Translational Research Science Building (TRSB)] + 
 *Capacity*: Limited to 30 participants
 
 == Program Schedule
@@ -37,16 +36,16 @@ Registration is required and space is limited to 30 participants.
 [cols="1,4", options="header"]
 |===
 | Time | Activity
-| 9:00-9:30 | Opening Remarks & Introduction
-| 9:30-10:30 | Project Pitches & Team Formation
+| 9:00-9:30 | Opening remarks & Introduction
+| 9:30-10:30 | Project pitches & Team formation
 | 10:30-11:00 | Coffee Break ☕
-| 11:00-12:30 | Hacking Session 1
-| 12:30-13:30 | Lunch Break 🍽️
-| 13:30-15:00 | Hacking Session 2
-| 15:00-15:30 | Coffee Break ☕
-| 15:30-16:30 | Hacking Session 3
-| 16:30-17:00 | Daily Wrap-up & Progress Reports
-| 18:00 | Group Dinner (optional)
+| 11:00-12:30 | Hacking
+| 12:30-13:30 | Lunch 🍽️
+| 13:30-15:00 | Hacking
+| 15:00-15:30 | Coffee break ☕
+| 15:30-16:30 | Hacking
+| 16:30-17:00 | Wrap-up Progress reports
+| 18:00 | Group dinner (optional)
 |===
 
 === Day 2 - October 9, 2025
@@ -54,18 +53,18 @@ Registration is required and space is limited to 30 participants.
 [cols="1,4", options="header"]
 |===
 | Time | Activity
-| 9:00-9:30 | Daily Kickoff
-| 9:30-11:00 | Hacking Session 4
-| 11:00-11:30 | Coffee Break ☕
-| 11:30-13:00 | Hacking Session 5
-| 13:00-14:00 | Lunch Break 🍽️
-| 14:00-15:00 | Final Development Sprint
-| 15:00-15:30 | Coffee Break ☕
-| 15:30-16:30 | Project Presentations
-| 16:30-17:00 | Closing Remarks
+| 9:00-9:30 | Daily kickoff
+| 9:30-11:00 | Hacking
+| 11:00-11:30 | Coffee break ☕
+| 11:30-13:00 | Hacking
+| 13:00-14:00 | Lunch 🍽️
+| 14:00-15:00 | Hacking
+| 15:00-15:30 | Coffee break ☕
+| 15:30-16:30 | Project presentations
+| 16:30-17:00 | Closing remarks
 |===
 
-== What to Expect
+== What to expect
 
 The HackPRC25 biohackathon will bring together researchers, developers, and bioinformaticians to work on:
 
@@ -75,7 +74,7 @@ The HackPRC25 biohackathon will bring together researchers, developers, and bioi
 * Performance optimization
 * Documentation and testing
 
-=== Who Should Attend
+=== Who should attend
 
 This biohackathon is designed for:
 
