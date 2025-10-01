@@ -21,7 +21,7 @@ Registration is required and space is limited to 30 participants. Attendance is 
 [cols="2,3", options="header"]
 |===
 | Date | Event
-| October 8-9, 2025 | HackPRC25 Biohackathon
+| October 8-9, 2025 | HackPRC25 biohackathon
 |===
 
 == Venue
