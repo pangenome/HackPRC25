@@ -96,7 +96,7 @@ This biohackathon is designed for:
 * Programming experience (Python, Rust, C++, or similar)
 * Basic knowledge of version control (Git)
 
-=== Organizers
+== Organizers
 
 - link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
