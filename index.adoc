@@ -4,7 +4,7 @@
 :sectanchors:
 :source-highlighter: coderay
 
-image::images/bridge.png[400]
+image::images/trippy-bridge.png[400]
 
 [.lead]
 Following the HPRC25 conference, we are organizing a biohackathon focused on pangenomic software tools and collaborative development.
