@@ -14,15 +14,16 @@ Following the HPRC25 conference, we are organizing a biohackathon focused on pan
 [.lead]
 Registration is required and space is limited to 30 participants. Attendance is *free* to anyone. Lunch *not* provided; options nearby.
 
-*Registration deadline:* 5th October 2025.
-
 📝 https://docs.google.com/forms/d/e/1FAIpQLSfGgCUiDAwmUshIgNzc3KSvCeWBUcKg204XcI_0yM_8CaIcgA/viewform?usp=header[Register here^]
+
+*Registration deadline:* 5th October 2025.
 
 == Important Dates
 
 [cols="2,3", options="header"]
 |===
 | Date | Event
+| October 5, 2025 | Registration deadline
 | October 8-9, 2025 | HackPRC25 biohackathon
 |===
 
