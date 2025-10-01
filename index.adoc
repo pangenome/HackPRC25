@@ -12,7 +12,7 @@ Following the HPRC25 conference, we are organizing a biohackathon focused on pan
 == Registration
 
 [.lead]
-Registration is required and space is limited to 30 participants. Attendance is *free* to anyone.
+Registration is required and space is limited to 30 participants. Attendance is *free* to anyone. Lunch *not* provided; options nearby.
 
 📝 https://docs.google.com/forms/d/e/1FAIpQLSfGgCUiDAwmUshIgNzc3KSvCeWBUcKg204XcI_0yM_8CaIcgA/viewform?usp=header[Register here^]
 
@@ -31,6 +31,8 @@ Registration is required and space is limited to 30 participants. Attendance is 
 
 == Program Schedule
 
+Coffee breaks provided; lunch not included (options nearby).
+
 === Day 1 - October 8, 2025
 
 [cols="1,4", options="header"]
@@ -38,11 +40,11 @@ Registration is required and space is limited to 30 participants. Attendance is 
 | Time | Activity
 | 9:00-9:30 | Opening remarks & Introduction
 | 9:30-10:30 | Project pitches & Team formation
-| 10:30-11:00 | Coffee Break ☕
+| 10:30-11:00 | *Coffee Break* ☕
 | 11:00-12:30 | Hacking
-| 12:30-13:30 | Lunch 🍽️
+| 12:30-13:30 | *Lunch (not provided; options nearby)* 🍽️
 | 13:30-15:00 | Hacking
-| 15:00-15:30 | Coffee break ☕
+| 15:00-15:30 | *Coffee break* ☕
 | 15:30-16:30 | Hacking
 | 16:30-17:00 | Wrap-up Progress reports
 | 18:00 | Group dinner (optional)
@@ -55,11 +57,11 @@ Registration is required and space is limited to 30 participants. Attendance is 
 | Time | Activity
 | 9:00-9:30 | Daily kickoff
 | 9:30-11:00 | Hacking
-| 11:00-11:30 | Coffee break ☕
+| 11:00-11:30 | *Coffee break* ☕
 | 11:30-13:00 | Hacking
-| 13:00-14:00 | Lunch 🍽️
+| 13:00-14:00 | *Lunch (not provided; options nearby)* 🍽️
 | 14:00-15:00 | Hacking
-| 15:00-15:30 | Coffee break ☕
+| 15:00-15:30 | *Coffee break* ☕
 | 15:30-16:30 | Project presentations
 | 16:30-17:00 | Closing remarks
 |===
@@ -73,6 +75,7 @@ The HackPRC25 biohackathon will bring together researchers, developers, and bioi
 * Visualization tools
 * Performance optimization
 * Documentation and testing
+* Coffee breaks provided; participants arrange their own lunch
 
 === Who should attend
 
@@ -89,6 +92,14 @@ This biohackathon is designed for:
 * Familiarity with genomic data formats
 * Programming experience (Python, Rust, C++, or similar)
 * Basic knowledge of version control (Git)
+
+=== Organizers
+
+- link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
+- link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://thebird.nl/[Pjotr Prins], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://uthsc.edu/search/detail.php?id=T100344325[Tamara Brock], University of Tennessee Health Science Center, Memphis, TN, US
 
 ---
 
