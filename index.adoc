@@ -41,7 +41,7 @@ Coffee breaks provided; lunch not included (options nearby).
 [cols="1,4", options="header"]
 |===
 | Time | Activity
-| 9:00-9:30 | Opening remarks & Introduction
+| 9:15-9:30 | Opening remarks & Introduction
 | 9:30-10:30 | Project pitches & Team formation
 | 10:30-11:00 | *Coffee Break* ☕
 | 11:00-12:30 | Hacking
@@ -58,7 +58,7 @@ Coffee breaks provided; lunch not included (options nearby).
 [cols="1,4", options="header"]
 |===
 | Time | Activity
-| 9:00-9:30 | Daily kickoff
+| 9:15-9:30 | Daily kickoff
 | 9:30-11:00 | Hacking
 | 11:00-11:30 | *Coffee break* ☕
 | 11:30-13:00 | Hacking
